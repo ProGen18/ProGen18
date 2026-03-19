@@ -76,10 +76,6 @@ Honorable Mention @ Université d'Artois coding competition (2026).
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProGen18&theme=tokyonight&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ProGen18&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
 ---
 
 ## 🚧 Current Projects
