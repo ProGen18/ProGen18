@@ -1,21 +1,28 @@
 name: Update README cards
+
 on:
   schedule:
-    - cron: "0 3 * * *"
-  workflow_dispatch:
+    - cron: "0 3 * * *"    
+  workflow_dispatch:     
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+
+      # 📊 Carte Stats
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=ProGen18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true
+          options: username=ProGen18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 💻 Carte Top Languages
       - name: Generate top langs card
         uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -23,6 +30,8 @@ jobs:
           options: username=ProGen18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 📤 Commit et push les SVGs
       - name: Commit cards
         run: |
           git config user.name "github-actions"
