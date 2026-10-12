@@ -2,43 +2,41 @@
 
 🇫🇷 Français · <a href="./README.md">🇬🇧 English</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Stéphane%20Talab&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Dev%20Fullstack%20·%20Freelance%20·%20Cybersécurité%20·%20CTF&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Stéphane%20Talab&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Dev%20fullstack%20·%20Joueur%20de%20CTF&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=%C3%89tudiant+M1+MIAGE+%40+UPJV+%E2%80%94+Amiens;Fullstack+%7C+React+%2B+Node.js+%2B+PostgreSQL;D%C3%A9veloppeur+freelance+depuis+2022;Pentest+%7C+CTF+%7C+Reverse+engineering;En+recherche+d%27alternance+en+Master" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=M1+MIAGE+%40+UPJV%2C+Amiens;Fullstack+%7C+React+%2B+Node.js+%2B+PostgreSQL;Freelance+depuis+2022;Pentest+%7C+CTF+%7C+Reverse+engineering;Je+cherche+une+alternance" alt="Typing SVG" /></a>
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-stephane--talab.fr-A78BFA?style=flat-square&logo=vercel&logoColor=white)](https://stephane-talab.fr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Me_suivre-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ProGen18)
-[![Email](https://img.shields.io/badge/Email-Me_contacter-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ProGen180@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ProGen18)
+[![Email](https://img.shields.io/badge/Email-M%E2%80%99%C3%A9crire-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ProGen180@gmail.com)
 
 </div>
 
 > [!TIP]
-> **🎯 Je recherche une alternance** pour mon Master MIAGE (Méthodes Informatiques Appliquées à la Gestion des Entreprises) — développement fullstack, IA ou sécurité. Basé à Amiens, ouvert aux Hauts-de-France et aux équipes en télétravail partiel. [Discutons-en →](mailto:ProGen180@gmail.com)
+> Je cherche une alternance pour mon Master MIAGE. Le fullstack, c’est ce que je fais tous les jours ; la sécurité et l’IA, c’est ce que j’aimerais faire plus souvent. J’habite à Amiens, je peux bouger dans les Hauts-de-France ou travailler en partie à distance. [M’envoyer un mail](mailto:ProGen180@gmail.com).
 
 ---
 
-## 👾 À propos de moi
+## 👾 Qui je suis
 
 ```bash
 $ whoami
 stephane_talab
 
 $ cat about.txt
-Étudiant en M1 MIAGE à l'UPJV (Amiens).
-Développeur fullstack freelance depuis 2022 : sites et applications web
-pour des entreprises et des associations, du premier brief à la mise en prod.
-Je code le jour, je casse des challenges CTF la nuit — pentest, web hacking,
-reverse engineering. En ce moment, je creuse l'IA et l'algorithmique des graphes.
-
-$ cat values.txt
-Du code propre et maintenable · Comprendre comment ça casse · Toujours apprendre
+Étudiant en M1 MIAGE à l’UPJV, à Amiens.
+Freelance depuis 2022 : surtout des sites et des applis web pour des
+entreprises et des associations. En général je m’occupe de tout, du
+cahier des charges jusqu’à la mise en ligne.
+Le soir, je fais des CTF (crypto, web, reverse engineering).
+En ce moment je lis beaucoup sur l’IA et l’algorithmique des graphes.
 ```
 
 ---
 
-## 🛠 Stack technique
+## 🛠 Stack
 
 <div align="center">
 
@@ -61,14 +59,14 @@ Du code propre et maintenable · Comprendre comment ça casse · Toujours appren
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-**Langages & Scripting**<br/>
+**Langages et scripts**<br/>
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-**Cybersécurité**<br/>
+**Sécurité**<br/>
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
@@ -79,25 +77,25 @@ Du code propre et maintenable · Comprendre comment ça casse · Toujours appren
 
 ## 🚧 En ce moment
 
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| 🌐 **Portfolio** | Site personnel avec études de cas et démos live — [stephane-talab.fr](https://stephane-talab.fr) | React · Next.js |
-| 🛒 **Web Apps clients** | Applications en production pour entreprises & associations (freelance) | Node.js · PostgreSQL · React |
-| 🔐 **CTF Lab** | Scripts & write-ups de challenges cybersécurité | Python · Bash |
+| Projet | C’est quoi | Stack |
+|--------|------------|-------|
+| 🌐 Portfolio | Mon site, avec des études de cas et quelques démos : [stephane-talab.fr](https://stephane-talab.fr) | React · Next.js |
+| 🛒 Applis clients | Les applis web que je développe et maintiens pour des entreprises et des associations | Node.js · PostgreSQL · React |
+| 🔐 CTF lab | Mes scripts et write-ups de CTF | Python · Bash |
 
 ---
 
-## 🏆 Highlights
+## 🏆 Parcours
 
-- 🎓 **M1 MIAGE** — UPJV, Amiens (2026–2027) · Informatique appliquée à la gestion des entreprises
-- 💼 **Développeur fullstack freelance** — Projets clients depuis 2022
-- 🥇 **Mention Honorable** — Compétition de code, Université d'Artois @ l'ARC (2026)
-- 🎯 **Compétiteur CTF** — Cryptographie, web hacking, reverse engineering (2024–2026)
-- 🔒 **Stage Pentest** — Analyse de vulnérabilités, tests d'intrusion, rédaction de rapports (2022)
+- M1 MIAGE à l’UPJV, Amiens (2026–2027)
+- Développeur fullstack freelance depuis 2022
+- Mention honorable à la compétition de code de l’Université d’Artois, à l’ARC (2026)
+- CTF depuis 2024, surtout en crypto, web et reverse engineering
+- Stage en pentest en 2022 : analyse de vulnérabilités, tests d’intrusion et les rapports qui vont avec
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats GitHub
 
 <div align="center">
   <img height="170em" src="./profile/stats.svg" alt="Statistiques GitHub"/>
@@ -108,11 +106,11 @@ Du code propre et maintenable · Comprendre comment ça casse · Toujours appren
 
 ---
 
-## 📬 Me contacter
+## 📬 Contact
 
 <div align="center">
 
-Ouvert aux offres d'alternance, aux missions freelance et aux équipes CTF. 👋
+Une offre d’alternance ou un projet freelance ? Écrivez-moi.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ProGen180@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ProGen18)
