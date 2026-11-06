@@ -18,7 +18,7 @@ jobs:
 
       # 📊 Carte Stats
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=ProGen18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&show=reviews,prs_merged,prs_merged_percentage
@@ -27,7 +27,7 @@ jobs:
 
       # 💻 Carte Top Languages
       - name: Generate top langs card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=ProGen18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true
@@ -36,7 +36,7 @@ jobs:
 
       # 📌 Cartes des repos mis en avant
       - name: Pin Trust_Game
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
           options: username=ProGen18&repo=Trust_Game&theme=tokyonight&hide_border=true&show_owner=false
@@ -44,7 +44,7 @@ jobs:
           token: ${{ secrets.PAT_TOKEN }}
 
       - name: Pin Snake_AI
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
           options: username=ProGen18&repo=Snake_AI&theme=tokyonight&hide_border=true&show_owner=false
@@ -52,7 +52,7 @@ jobs:
           token: ${{ secrets.PAT_TOKEN }}
 
       - name: Pin TripAdvisor
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
           options: username=ProGen18&repo=TripAdvisor&theme=tokyonight&hide_border=true&show_owner=false
@@ -60,7 +60,7 @@ jobs:
           token: ${{ secrets.PAT_TOKEN }}
 
       - name: Pin wheel_survey
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
           options: username=ProGen18&repo=wheel_survey&theme=tokyonight&hide_border=true&show_owner=false

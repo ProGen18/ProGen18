@@ -106,8 +106,6 @@ En ce moment je lis beaucoup sur l’IA et l’algorithmique des graphes.
   <img height="170em" src="./profile/top-langs.svg" alt="Langages les plus utilisés"/>
   <br/>
   <img src="https://streak-stats.demolab.com/?user=ProGen18&theme=tokyonight&hide_border=true" alt="Série de contributions GitHub"/>
-  <br/><br/>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ProGen18&theme=tokyo-night&hide_border=true&area=true" alt="Graphique d’activité GitHub"/>
 </div>
 
 ### 📌 Projets à la une

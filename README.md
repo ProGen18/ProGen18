@@ -106,8 +106,6 @@ Lately I've been reading a lot about AI and graph algorithms.
   <img height="170em" src="./profile/top-langs.svg" alt="Top languages"/>
   <br/>
   <img src="https://streak-stats.demolab.com/?user=ProGen18&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-  <br/><br/>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ProGen18&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph"/>
 </div>
 
 ### 📌 Featured projects
