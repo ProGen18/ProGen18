@@ -106,6 +106,24 @@ Lately I've been reading a lot about AI and graph algorithms.
   <img height="170em" src="./profile/top-langs.svg" alt="Top languages"/>
   <br/>
   <img src="https://streak-stats.demolab.com/?user=ProGen18&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <br/><br/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ProGen18&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph"/>
+</div>
+
+### 📌 Featured projects
+
+<div align="center">
+  <a href="https://github.com/ProGen18/Trust_Game"><img src="./profile/pin-trust-game.svg" alt="Trust_Game"/></a>
+  <a href="https://github.com/ProGen18/Snake_AI"><img src="./profile/pin-snake-ai.svg" alt="Snake_AI"/></a>
+  <a href="https://github.com/ProGen18/TripAdvisor"><img src="./profile/pin-tripadvisor.svg" alt="TripAdvisor"/></a>
+  <a href="https://github.com/ProGen18/wheel_survey"><img src="./profile/pin-wheel-survey.svg" alt="wheel_survey"/></a>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg"/>
+    <img src="./profile/snake.svg" alt="Snake eating my contributions"/>
+  </picture>
 </div>
 
 ---
