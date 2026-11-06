@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Stéphane%20Talab&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20dev%20·%20CTF%20player&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=M1+MIAGE+%40+UPJV%2C+Amiens;Fullstack+%7C+React+%2B+Node.js+%2B+PostgreSQL;Freelancing+since+2022;Pentest+%7C+CTF+%7C+Reverse+engineering;Looking+for+a+work-study+%28alternance%29" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=M1+MIAGE+%40+UPJV%2C+Amiens;Fullstack+%7C+React+%2B+Node.js+%2B+PostgreSQL;Freelancing+since+2022;Pentest+%7C+CTF+%7C+Reverse+engineering;Work-study+%40+Hauts-de-France+Region" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -14,8 +14,8 @@
 
 </div>
 
-> [!TIP]
-> I'm looking for a work-study position (alternance) for my Master's in MIAGE. Fullstack is what I do every day; security and AI are what I'd like to do more of. I live in Amiens and can work anywhere in Hauts-de-France, or partly remote. [Send me an email](mailto:ProGen180@gmail.com).
+> [!NOTE]
+> Since November 2026, I've been a work-study apprentice project manager at the **Hauts-de-France Region**, alongside my Master's in MIAGE at UPJV. I develop, integrate and maintain software solutions there. I'm still open to freelance projects: [send me an email](mailto:ProGen180@gmail.com).
 
 ---
 
@@ -26,7 +26,8 @@ $ whoami
 stephane_talab
 
 $ cat about.txt
-M1 MIAGE student at UPJV, in Amiens.
+M1 MIAGE student at UPJV, in Amiens, on a work-study contract at
+the Hauts-de-France Region (apprentice project manager).
 I've been freelancing since 2022, mostly websites and web apps for
 companies and associations. I usually handle the whole thing, from the
 spec to the deploy.
@@ -80,6 +81,7 @@ Lately I've been reading a lot about AI and graph algorithms.
 
 | Project | What it is | Stack |
 |---------|------------|-------|
+| 🏛 Work-study | Apprentice project manager at the Hauts-de-France Region: developing, integrating and maintaining software solutions | PHP · Symfony · ETL |
 | 🌐 Portfolio | My site, with case studies and a few live demos: [stephane-talab.fr](https://stephane-talab.fr) | React · Next.js |
 | 🛒 Client apps | Web apps I build and maintain for companies and associations | Node.js · PostgreSQL · React |
 | 🔐 CTF lab | Scripts and write-ups from the CTFs I play | Python · Bash |
@@ -88,7 +90,8 @@ Lately I've been reading a lot about AI and graph algorithms.
 
 ## 🏆 Background
 
-- M1 MIAGE at UPJV, Amiens (2026–2027)
+- Apprentice project manager at the Hauts-de-France Region (2026–2028)
+- M1 MIAGE at UPJV, Amiens (2026–2027), work-study
 - Freelance fullstack developer since 2022
 - Honorable mention at the Université d'Artois coding competition, held at l'ARC (2026)
 - CTFs since 2024, mostly crypto, web and reverse engineering
@@ -111,7 +114,7 @@ Lately I've been reading a lot about AI and graph algorithms.
 
 <div align="center">
 
-Got a work-study offer or a freelance project? Write to me.
+Got a freelance project or a question? Write to me.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ProGen180@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ProGen18)

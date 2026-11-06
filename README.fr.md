@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Stéphane%20Talab&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Dev%20fullstack%20·%20Joueur%20de%20CTF&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=M1+MIAGE+%40+UPJV%2C+Amiens;Fullstack+%7C+React+%2B+Node.js+%2B+PostgreSQL;Freelance+depuis+2022;Pentest+%7C+CTF+%7C+Reverse+engineering;Je+cherche+une+alternance" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=M1+MIAGE+%40+UPJV%2C+Amiens;Fullstack+%7C+React+%2B+Node.js+%2B+PostgreSQL;Freelance+depuis+2022;Pentest+%7C+CTF+%7C+Reverse+engineering;Alternant+%40+R%C3%A9gion+Hauts-de-France" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -14,8 +14,8 @@
 
 </div>
 
-> [!TIP]
-> Je cherche une alternance pour mon Master MIAGE. Le fullstack, c’est ce que je fais tous les jours ; la sécurité et l’IA, c’est ce que j’aimerais faire plus souvent. J’habite à Amiens, je peux bouger dans les Hauts-de-France ou travailler en partie à distance. [M’envoyer un mail](mailto:ProGen180@gmail.com).
+> [!NOTE]
+> Depuis novembre 2026, je suis en alternance à la **Région Hauts-de-France** comme apprenti responsable de projet, en parallèle de mon Master MIAGE à l’UPJV. J’y développe, intègre et maintiens des solutions logicielles. Je reste ouvert aux projets freelance : [m’envoyer un mail](mailto:ProGen180@gmail.com).
 
 ---
 
@@ -26,7 +26,8 @@ $ whoami
 stephane_talab
 
 $ cat about.txt
-Étudiant en M1 MIAGE à l’UPJV, à Amiens.
+Étudiant en M1 MIAGE à l’UPJV, à Amiens, en alternance à la
+Région Hauts-de-France (apprenti responsable de projet).
 Freelance depuis 2022 : surtout des sites et des applis web pour des
 entreprises et des associations. En général je m’occupe de tout, du
 cahier des charges jusqu’à la mise en ligne.
@@ -80,6 +81,7 @@ En ce moment je lis beaucoup sur l’IA et l’algorithmique des graphes.
 
 | Projet | C’est quoi | Stack |
 |--------|------------|-------|
+| 🏛 Alternance | Apprenti responsable de projet à la Région Hauts-de-France : développement, intégration et maintenance de solutions logicielles | PHP · Symfony · ETL |
 | 🌐 Portfolio | Mon site, avec des études de cas et quelques démos : [stephane-talab.fr](https://stephane-talab.fr) | React · Next.js |
 | 🛒 Applis clients | Les applis web que je développe et maintiens pour des entreprises et des associations | Node.js · PostgreSQL · React |
 | 🔐 CTF lab | Mes scripts et write-ups de CTF | Python · Bash |
@@ -88,7 +90,8 @@ En ce moment je lis beaucoup sur l’IA et l’algorithmique des graphes.
 
 ## 🏆 Parcours
 
-- M1 MIAGE à l’UPJV, Amiens (2026–2027)
+- Apprenti responsable de projet à la Région Hauts-de-France (2026–2028)
+- M1 MIAGE à l’UPJV, Amiens (2026–2027), en alternance
 - Développeur fullstack freelance depuis 2022
 - Mention honorable à la compétition de code de l’Université d’Artois, à l’ARC (2026)
 - CTF depuis 2024, surtout en crypto, web et reverse engineering
@@ -111,7 +114,7 @@ En ce moment je lis beaucoup sur l’IA et l’algorithmique des graphes.
 
 <div align="center">
 
-Une offre d’alternance ou un projet freelance ? Écrivez-moi.
+Un projet freelance ou une question ? Écrivez-moi.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ProGen180@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ProGen18)
