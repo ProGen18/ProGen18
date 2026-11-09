@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">St&#233;phane TALAB&#39;s GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 5, Total Commits  : 2587, Total PRs: 22, Total PRs Merged: 18, Merged PRs Percentage: 81.82, Total PRs Reviewed: 0, Total Issues: 0, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 5, Total Commits  : 2602, Total PRs: 23, Total PRs Merged: 19, Merged PRs Percentage: 82.61, Total PRs Reviewed: 0, Total Issues: 0, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 184.42469111217088;
+        stroke-dashoffset: 183.71494322596217;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >22</text>
+      >23</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged"
-      >18</text>
+      >19</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >81.82 %</text>
+      >82.61 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -274,7 +274,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >4</text>
+      >5</text>
     </g>
   </g>
     </svg>
