@@ -4,15 +4,28 @@ on:
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
+  # Relance automatique quand le README ou ce workflow changent.
+  # Les commits du bot ne touchent que les SVG, donc pas de boucle.
+  push:
+    branches: [main]
+    paths:
+      - "README.md"
+      - "README.fr.md"
+      - ".github/workflows/stats.yml"
 
 permissions:
   contents: write
+
+# Un seul run à la fois : évite que deux runs se marchent dessus au moment du push
+concurrency:
+  group: readme-cards
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           token: ${{ secrets.PAT_TOKEN }}
 
@@ -115,4 +128,6 @@ jobs:
           git config user.email "github-actions@users.noreply.github.com"
           git add profile/*.svg profile-summary-card-output
           git commit -m "Update README cards" || exit 0
+          # Si main a bougé pendant le run (ex. modif du README), on se recale avant de pousser
+          git pull --rebase -X theirs origin main
           git push
