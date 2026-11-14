@@ -78,11 +78,41 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # 🔥 Streak + 🏅 Trophées : on télécharge les cartes depuis les instances publiques
+      # et on ne remplace l'ancienne version que si on reçoit bien un SVG.
+      # Si le service est en panne, le profil garde la dernière carte valide.
+      - name: Fetch streak and trophies cards
+        run: |
+          fetch() {
+            url="$1"; out="$2"
+            if curl -sfL --max-time 60 "$url" -o "$out.tmp" && grep -q "<svg" "$out.tmp"; then
+              mv "$out.tmp" "$out"
+              echo "OK  $out"
+            else
+              rm -f "$out.tmp"
+              echo "::warning::Échec pour $out, on garde l'ancienne version"
+            fi
+          }
+          fetch "https://streak-stats.demolab.com/?user=ProGen18&theme=tokyonight&hide_border=true" profile/streak.svg
+          fetch "https://github-profile-trophy.vercel.app/?username=ProGen18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" profile/trophies.svg
+
+      # 🧾 Cartes « Profile Summary » (contributions, langages, heures de commit)
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+        with:
+          USERNAME: ProGen18
+          BRANCH_NAME: main
+          UTC_OFFSET: 1
+          THEME: tokyonight
+          AUTO_PUSH: false
+
       # 📤 Commit et push les SVGs
       - name: Commit cards
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add profile/*.svg
+          git add profile/*.svg profile-summary-card-output
           git commit -m "Update README cards" || exit 0
           git push
