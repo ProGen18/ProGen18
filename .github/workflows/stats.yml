@@ -91,10 +91,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 🔥 Streak + 🏅 Trophées : on télécharge les cartes depuis les instances publiques
+      # 🔥 Streak : on télécharge la carte depuis l'instance publique
       # et on ne remplace l'ancienne version que si on reçoit bien un SVG.
       # Si le service est en panne, le profil garde la dernière carte valide.
-      - name: Fetch streak and trophies cards
+      - name: Fetch streak card
         run: |
           fetch() {
             url="$1"; out="$2"
@@ -107,7 +107,16 @@ jobs:
             fi
           }
           fetch "https://streak-stats.demolab.com/?user=ProGen18&theme=tokyonight&hide_border=true" profile/streak.svg
-          fetch "https://github-profile-trophy.vercel.app/?username=ProGen18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" profile/trophies.svg
+
+      # 🏅 Trophées : générés directement dans le run (l'instance publique Vercel est hors service)
+      - name: Generate trophies card
+        uses: ryo-ma/github-profile-trophy@master
+        continue-on-error: true
+        with:
+          username: ProGen18
+          output_path: profile/trophies.svg
+          token: ${{ secrets.PAT_TOKEN }}
+          theme: tokyonight
 
       # 🧾 Cartes « Profile Summary » (contributions, langages, heures de commit)
       - name: Generate profile summary cards
